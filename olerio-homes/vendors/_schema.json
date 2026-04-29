@@ -1,0 +1,38 @@
+{
+  "example_vendor": {
+    "id": "framing-acme",
+    "company": "Acme Framing",
+    "trade": "Framing",
+    "contact_name": "John Smith",
+    "phone": "+15551234567",
+    "email": "john@acmeframing.com",
+    "preferred_contact": "text",
+    "notes": ""
+  },
+  "trades": [
+    "Site Work",
+    "Foundation",
+    "Framing",
+    "Roofing",
+    "Siding",
+    "Windows",
+    "Plumbing",
+    "HVAC",
+    "Electrical",
+    "Insulation",
+    "Drywall",
+    "Paint",
+    "Cabinets",
+    "Countertops",
+    "Tile",
+    "Flooring",
+    "Trim",
+    "Doors",
+    "Garage Doors",
+    "Gutters",
+    "Concrete Flatwork",
+    "Landscaping",
+    "Final Clean",
+    "Punch"
+  ]
+}
