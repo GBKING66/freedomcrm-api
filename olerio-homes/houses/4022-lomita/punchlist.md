@@ -1,4 +1,4 @@
-# 4022 Lometa — Punchlist
+# 4022 Lomita — Punchlist
 
 **Stage:**
 **Last walk:**

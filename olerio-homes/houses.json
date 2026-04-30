@@ -9,9 +9,9 @@
     { "id": "5529-forsan-way",  "address": "5529 Forsan Way",  "status": "active" },
     { "id": "5506-forsan-way",  "address": "5506 Forsan Way",  "status": "active" },
     { "id": "5510-forsan-way",  "address": "5510 Forsan Way",  "status": "active" },
-    { "id": "4016-lometa",      "address": "4016 Lometa",      "status": "active" },
-    { "id": "4022-lometa",      "address": "4022 Lometa",      "status": "active" },
+    { "id": "4016-lomita",      "address": "4016 Lomita",      "status": "active" },
+    { "id": "4022-lomita",      "address": "4022 Lomita",      "status": "active" },
     { "id": "4515-kelton",      "address": "4515 Kelton",      "status": "active" },
-    { "id": "4926-winona",      "address": "4926 Winona",      "status": "active" }
+    { "id": "4926-wenonah",     "address": "4926 Wenonah",     "status": "active" }
   ]
 }
