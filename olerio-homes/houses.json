@@ -1,3 +1,17 @@
 {
-  "houses": []
+  "houses": [
+    { "id": "4105-dunhaven",    "address": "4105 Dunhaven",    "status": "active" },
+    { "id": "3850-beachwood",   "address": "3850 Beachwood",   "status": "active" },
+    { "id": "5553-forsan-way",  "address": "5553 Forsan Way",  "status": "active" },
+    { "id": "5537-forsan-way",  "address": "5537 Forsan Way",  "status": "active" },
+    { "id": "5533-forsan-way",  "address": "5533 Forsan Way",  "status": "active" },
+    { "id": "5525-forsan-way",  "address": "5525 Forsan Way",  "status": "active" },
+    { "id": "5529-forsan-way",  "address": "5529 Forsan Way",  "status": "active" },
+    { "id": "5506-forsan-way",  "address": "5506 Forsan Way",  "status": "active" },
+    { "id": "5510-forsan-way",  "address": "5510 Forsan Way",  "status": "active" },
+    { "id": "4016-lometa",      "address": "4016 Lometa",      "status": "active" },
+    { "id": "4022-lometa",      "address": "4022 Lometa",      "status": "active" },
+    { "id": "4515-kelton",      "address": "4515 Kelton",      "status": "active" },
+    { "id": "4926-winona",      "address": "4926 Winona",      "status": "active" }
+  ]
 }
