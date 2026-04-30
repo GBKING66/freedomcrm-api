@@ -2,15 +2,15 @@
 
 **Vendor:** *(to be added — name, contact, phone, email)*
 
+> Build to all standards in [`olerio-homes/standards/electrical.md`](../../../standards/electrical.md).
+
 ---
 
-## 1. Plugs above cabinets — verify centering spec
+## 1. Verify plug centering above cabinets (per ELE-01)
 
-- **Scope:** All plugs installed above cabinets
-- **Spec:**
-  - **Left-right:** plug must be centered on the drawer below it
-  - **Front-back:** plug must be centered on the cabinet (depth-wise)
-- **Action:** Walk every plug above a cabinet, verify both axes, relocate any that aren't centered.
+- **Scope:** All plugs installed above cabinets in this house.
+- **Reference:** `standards/electrical.md` → ELE-01
+- **Action:** Walk every plug above a cabinet, verify centered L/R on the drawer and centered front/back on the cabinet. Relocate any that don't meet the spec.
 
 ---
 
