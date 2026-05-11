@@ -2,7 +2,7 @@
 
 This document tracks every item that needs to be sent to the **purchasing department** at each phase of a build. When a house reaches a phase, email purchasing the items listed for that phase.
 
-**Purchasing contact:** *(to be added — name, email, phone)*
+**Purchasing:** purchasing@oleriohomes.com
 
 ---
 
