@@ -1,0 +1,10 @@
+{
+  "project_name": "Olerio Homes",
+  "sender": {
+    "email": "robert@oleriohomes.com",
+    "platform": "Outlook"
+  },
+  "purchasing": {
+    "email": "purchasing@oleriohomes.com"
+  }
+}
