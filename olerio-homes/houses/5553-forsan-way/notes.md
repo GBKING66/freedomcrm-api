@@ -16,3 +16,22 @@
 **Next decision point:** once poly seal company confirms date, decide whether to keep or move Monday's framing inspection.
 
 ---
+
+## 2026-06-29
+
+**Exterior — flat work:**
+- Forms not yet done.
+- Vendor: **Elegant Concrete** — they pull permit and set forms.
+- **Action:** touch base with them today.
+
+**Interior:**
+- **Trim:** complete.
+- **Wood floors:** complete.
+- **Stairs:** complete.
+- **Paint:** painters in the house **prepping now**.
+- **Tile:** was supposed to start this week.
+  - Vendor: **Chris Byrum at Make Ready Flooring**.
+  - **Action:** call/text Chris.
+- **Countertops:** templates supposed to be done today.
+  - Vendor: **Grace Stone**.
+  - **Action:** call/text Grace.

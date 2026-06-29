@@ -1,0 +1,11 @@
+# 4022 Lomita — Notes & Status
+
+---
+
+## 2026-06-29
+
+**Status:** Same as 4016 Lomita.
+
+- Roof decking: **tomorrow**.
+- Plumbing: **Ragsdale Plumbing** starting **top out today**.
+- HVAC & Electric: confirm schedule for end of week / beginning of next (holiday).
