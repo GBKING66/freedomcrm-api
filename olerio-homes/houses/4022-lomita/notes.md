@@ -16,3 +16,5 @@
 
 - **Roof deck** — going on **today**.
 - **Plumbing top out** — **started today**.
+- **Frame blocking** — being **removed today**.
+- **Pocket doors** — **Sam** coming out **tomorrow (7/1)** to check.
