@@ -25,3 +25,15 @@
 - Windows: **in place**.
 - Doors and slider: confirm install schedule.
 - Brick: **delivered**.
+
+---
+
+## 2026-06-30
+
+**Plumbing:** Finishing **top out**.
+
+**Carpentry / framing:** Need to **fur down the master bedroom ceiling** to accommodate the plumbing that had to be re-routed because of the **LVLs**.
+
+**Drywall:** Sheetrock **completed for the inspection portion**.
+
+**Roofing:** Shingles should be going on **this week**.
