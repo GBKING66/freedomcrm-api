@@ -9,3 +9,10 @@
 - Roof decking: **tomorrow**.
 - Plumbing: **Ragsdale Plumbing** starting **top out today**.
 - HVAC & Electric: confirm schedule for end of week / beginning of next (holiday).
+
+---
+
+## 2026-06-30
+
+- **Roof deck** — going on **today**.
+- **Plumbing top out** — **started today**.
