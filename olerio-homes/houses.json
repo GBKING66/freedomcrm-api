@@ -13,6 +13,7 @@
     { "id": "4022-lomita",      "address": "4022 Lomita",      "status": "active" },
     { "id": "4515-kelton",      "address": "4515 Kelton",      "status": "active" },
     { "id": "4926-wenonah",     "address": "4926 Wenonah",     "status": "active" },
-    { "id": "4164-saranac",     "address": "4164 Saranac",     "status": "closed" }
+    { "id": "4164-saranac",     "address": "4164 Saranac",     "status": "closed" },
+    { "id": "4124-valley-ridge","address": "4124 Valley Ridge","status": "active" }
   ]
 }
