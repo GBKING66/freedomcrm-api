@@ -28,3 +28,13 @@
 9. **Interior fireplace** — missing right **refractor**. **Jim Kronk** said they'll bring it at startup.
 
 **Vendors involved this house:** Shane @ Ferguson, Kingdom, Stone Saint (Elijah), Moore Supply, Jim Kronk.
+
+---
+
+## 2026-06-30
+
+**Sewer tap:** **Manny** has to do the sewer tap — got missed by **Chandler**.
+
+**Wood floors:** **Kingdom** is **sanding and finishing** the floors (in progress).
+
+**Master shower re-tile:** **Make Ready** is getting it done **between today and end of week / beginning of next week** (holiday-dependent).
