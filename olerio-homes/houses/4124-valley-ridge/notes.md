@@ -11,5 +11,5 @@
 **Windows:** Still need to be installed. **On the schedule.**
 
 **Underground utilities:**
-- **Electric underground** — scheduled.
+- **Electric underground** — **called in** ✓
 - **Gas underground** — waiting on **Atmos** to call back to schedule.
