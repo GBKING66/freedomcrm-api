@@ -38,3 +38,9 @@
 **Wood floors:** **Kingdom** is **sanding and finishing** the floors (in progress).
 
 **Master shower re-tile:** **Make Ready** is getting it done **between today and end of week / beginning of next week** (holiday-dependent).
+
+**Open questions to resolve today:**
+
+1. **Game room bar area** — is it supposed to have a **mini fridge or other appliance** installed? Currently nothing there.
+2. **Downstairs master bath** — need to order **another sconce**.
+3. **Powder bath sconces** — where are they? Get with **Shane @ Ferguson**.
